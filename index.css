@@ -438,7 +438,7 @@ img {
 /* Общие стили */
 
 /* Стили для мобильных устройств */
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
     .service_el {
         margin-right: 10px;
         grid-template-columns: 1fr; /* Один элемент в колонке */
